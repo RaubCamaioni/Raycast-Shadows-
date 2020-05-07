@@ -3,7 +3,7 @@ I implimented the code and found it would run too slow in my application.  So I 
 runtime preformance about 160x.
 
 Vectorized python numpy code for raycasting.  Includes a demo showing raycasting being used to create a "line of sight polygon".
-Short explanations on how the functions work.  You will probably need to look at the demo to get an understanding or what is going on.
+Short explanations on how the functions work.  You will probably need to look at the demo to get an understanding of what is going on.
 Looking at the shapes of the function inputs will help too. (also reading https://ncase.me/sight-and-light/ will help)
 I have a fairly good explination in the code.
 
