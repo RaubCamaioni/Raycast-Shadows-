@@ -12,4 +12,4 @@ If you want to run the demo you will need to also have pygame module installed. 
 I also include a performance comparison between non, partially, and fully vectorized raycasting versions. 
 
 Hope you find this code usefull, took me a while to get everything working for my own project.
-The fully vectorized code can comfortably cast 400 rays, 200 segments, at 60 fps.
+The fully vectorized code can comfortably cast 200 rays, 100 segments, at 60 fps.
