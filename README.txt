@@ -14,4 +14,4 @@ I also include a performance comparison between non, partially, and fully vector
 Hope you find this code usefull, took me a while to get everything working for my own project.
 The fully vectorized code can comfortably cast 200 rays, 100 segments, at 60 fps.
 
-![Raycast Demo](raycast_demo.gif)
+![Raycast Demo](./raycast_demo.gif)
